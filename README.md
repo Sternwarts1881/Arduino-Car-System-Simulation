@@ -3,9 +3,10 @@
 
 Project Overview
 
-This project simulates a smart vehicle interior security and control system using Arduino and Proteus.
+This project is a smart vehicle interior security and control system using Arduino and Proteus developed for the Programming Laboratory II course at Kocaeli University.
 It aims to replicate the safety and comfort features found in modern cars on a microcontroller-based platform.
-Features
+
+Features:
 
     Engine Start and Seatbelt Check:
 
